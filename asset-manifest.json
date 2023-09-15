@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "https://varsharani9.github.io/Google-Calculator/static/css/main.a4ee46c5.css",
-    "main.js": "https://varsharani9.github.io/Google-Calculator/static/js/main.9b6dac40.js",
-    "static/js/787.2ae23cd2.chunk.js": "https://varsharani9.github.io/Google-Calculator/static/js/787.2ae23cd2.chunk.js",
-    "index.html": "https://varsharani9.github.io/Google-Calculator/index.html",
-    "main.a4ee46c5.css.map": "https://varsharani9.github.io/Google-Calculator/static/css/main.a4ee46c5.css.map",
-    "main.9b6dac40.js.map": "https://varsharani9.github.io/Google-Calculator/static/js/main.9b6dac40.js.map",
-    "787.2ae23cd2.chunk.js.map": "https://varsharani9.github.io/Google-Calculator/static/js/787.2ae23cd2.chunk.js.map"
+    "main.css": "https://github.com/NishthaArora1910/React-Calculator/blob/main/static/css/main.a4ee46c5.css",
+    "main.js": "https://github.com/NishthaArora1910/React-Calculator/blob/main/static/js/main.9b6dac40.js",
+    "static/js/787.2ae23cd2.chunk.js": "https://github.com/NishthaArora1910/React-Calculator/blob/main/static/js/787.2ae23cd2.chunk.js",
+    "index.html": "https://github.com/NishthaArora1910/React-Calculator/blob/main/index.html",
+    "main.a4ee46c5.css.map": "https://github.com/NishthaArora1910/React-Calculator/blob/main/static/css/main.a4ee46c5.css.map",
+    "main.9b6dac40.js.map": "https://github.com/NishthaArora1910/React-Calculator/blob/main/static/js/main.9b6dac40.js.map",
+    "787.2ae23cd2.chunk.js.map": "https://github.com/NishthaArora1910/React-Calculator/blob/main/static/js/787.2ae23cd2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4ee46c5.css",
